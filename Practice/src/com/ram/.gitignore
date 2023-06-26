@@ -5,3 +5,13 @@
 /helloTest.class
 /ifClass.class
 /ConditionalLoops.class
+/thread.class
+/MyThread.class
+/RunnableImpl.class
+/MyThread$RunnableImpl.class
+/CallableExample.class
+/ArrayListProblems.class
+/LinkedListProblems.class
+/ReversingString.class
+/Node.class
+/LinkedListProblems$Node.class
